@@ -6,6 +6,7 @@ This is a daily warmup routine to keep JavaScript ...... fresh in your memory. F
 2. Write the syntax for the method.
 3. Do the 3-4 challenges below.
 4. Explain verbally what is happening in the code and how it works to identify gaps in knowledge.
+5. Avoid copy and pasting when you can to remember the syntax.
 ```
 🟢 Completed
 🟠 Completed but with assistance or looking up how it is done

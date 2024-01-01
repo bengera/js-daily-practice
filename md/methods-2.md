@@ -16,20 +16,20 @@ This is a daily warmup routine to keep JavaScript ...... fresh in your memory. F
 ```const numbers = [1, 2, 3, 4, 5];```
 
 Challenges:
-1. Print each number in the console.
-2. Multiply each number by 2 and print the result.
-3. Find the sum of all numbers.
-4. Find the product of all numbers.
+1. Print each number in the console. 🟢
+2. Multiply each number by 2 and print the result. 🟢
+3. Find the sum of all numbers. 🔴
+4. Find the product of all numbers. 🔴
 
 
 ## map() ##
 ```const words = ['apple', 'banana', 'cherry'];```
 
 **Challenges:**
-1. Create a new array where each word is capitalized.
-2. Create a new array where each word is reversed.
-3. Create a new array where each word is replaced by its length.
-4. Create a new array where each word is replaced by its first letter.
+1. Create a new array where each word is capitalized. 🟠
+2. Create a new array where each word is reversed. 🔴
+3. Create a new array where each word is replaced by its length. 🟢
+4. Create a new array where each word is replaced by its first letter. 🟢
 
 
 
@@ -40,10 +40,9 @@ const setB = new Set([3, 4, 5]);
 ```
 
 **Challenges:**
-1. Combine both sets without duplicates
-2. Check if all elements of setA are present in setB
-3. Find the intersection of setA and setB
-4. Create a set of unique characters from a string
+1. Combine both sets without duplicates 🟠
+2. Check if all elements of setA are present in setB 🔴
+3. Create a set of unique characters from a string 🟢
 
 
 
