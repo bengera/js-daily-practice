@@ -2,8 +2,8 @@
 
 This is a daily warmup routine to keep JavaScript ...... fresh in your memory. Follow each instruction:
 
-1. Recall verbally what ... does. 
-2. Write the syntax for it.
+1. Recall verbally what the method does. 
+2. Write the syntax for the method.
 3. Do the 3-4 challenges below.
 4. Explain verbally what is happening in the code and how it works to identify gaps in knowledge.
 ```
