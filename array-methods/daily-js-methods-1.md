@@ -13,22 +13,26 @@ This is a daily warmup routine to keep JavaScript array methods fresh in your me
 ```
 
 ## slice() ##
+Notes
+* Ending index is not included in slice
+* Starting index = inclusive. Ending index = exclusive
+
 ```const animals = ['ant', 'bison', 'camel', 'duck', 'elephant'];```
 
 Challenges:
-1. Remove the first 2 elements of the array 🟢
-2. Remove the elements in the array from the 2nd to the 4th 🟠
-3. Remove only the last element of the array 🟢
-4. Create a shallow copy of the array. 🟢
+1. Remove the first 2 elements of the array 🟢🟠
+2. Remove the elements in the array from the 2nd to the 4th 🔴🟠
+3. Remove only the last element of the array 🟢🟢
+4. Create a shallow copy of the array. 🟢🟢
 
 ## reverse() ##
 ```const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];```
 
 **Challenges:**
-1. Reverse the order of the array. 🟢
-2. Reverse the order of a slice of the array from the 2nd to the 5th element.🟢
-3. Reverse the order of a slice of the array from the 3rd to the last element. 🟢
-4. Reverse the order of a slice of the array from the 1st to the 3rd element. 🟢
+1. Reverse the order of the array. 🟢🟢
+2. Reverse the order of a slice of the array from the 2nd to the 5th element.🟢🟠
+3. Reverse the order of a slice of the array from the 3rd to the last element. 🟢🟠
+4. Reverse the order of a slice of the array from the 1st to the 3rd element. 🟢🟢
 
 
 ## concat() ##
@@ -42,10 +46,10 @@ Challenges:
 ``const arr4 = ['j', 'k', 'l'];``
 
 **Challenges:**
-1. Concatenate arr1 and arr2. 🟢
-2. Concatenate arr1, arr2, and arr3. 🟢
-3. Concatenate arr1, arr2, arr3, and arr4. 🟢
-4. Concatenate arr2, arr3, and arr4. 🟢
+1. Concatenate arr1 and arr2. 🟢🟢
+2. Concatenate arr1, arr2, and arr3. 🟢🟢
+3. Concatenate arr1, arr2, arr3, and arr4. 🟢🟢
+4. Concatenate arr2, arr3, and arr4. 🟢🟢
 
 
 
